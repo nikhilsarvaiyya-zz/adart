@@ -1,2 +1,1 @@
-# adart
-Angular Dart startkit
+An absolute bare-bones web app.
